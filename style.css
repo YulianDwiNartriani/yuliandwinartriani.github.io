@@ -1,3 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700;800&display=swap');
+
+*{
+  font-family: 'poppins', sans-serif;
+}
+.navbar .nav-item .nav-link:hover,
+.navbar .nav-item .nav-link.active {
+  color: #f77f00;
+}
 
 .jumbotron {
   padding-top: 6rem;
@@ -10,3 +19,4 @@
 section{
   padding-top: 5rem;
 }
+
