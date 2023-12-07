@@ -3,15 +3,31 @@
 *{
   font-family: 'poppins', sans-serif;
 }
-.navbar .nav-item .nav-link:hover,
-.navbar .nav-item .nav-link.active {
-  color: #f77f00;
+.navbar{
+  background-color: #B08968;
 }
 
-.jumbotron {
-  padding-top: 6rem;
-  background-color: #e2edff;
+.navbar .nav-item .nav-link:hover,
+.navbar .nav-item .nav-link.active {
+  color: #ffff;
 }
+
+.header-section .header-desc{
+  margin: auto;
+}
+
+.header-section .header-img{
+  width: 90%;
+}
+
+.header-section .header-name{
+  color:#7f5539;
+}
+
+#about{
+  background: #e6ccb2 ;
+}
+
 #projects {
   background-color: #e2edff;
 }
